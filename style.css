@@ -1,0 +1,62 @@
+/* .no-header-border #site-header {
+    border-bottom: none;
+    background: black;
+}
+.elementor.elementor-240.elementor-location-header {
+    display: flex;
+    justify-content: center;
+} */
+
+/* About Us and Mission Section */
+.elementor-12 .elementor-element.elementor-element-db1db21 > .elementor-widget-container,
+.elementor-12 .elementor-element.elementor-element-51babb4 > .elementor-widget-container {
+    padding: 0;
+}
+.elementor-12 .elementor-element.elementor-element-db1db21 .elementor-heading-title,
+.elementor-12 .elementor-element.elementor-element-51babb4 .elementor-heading-title {
+    color: #FBFEFF;
+    font-family: "Microsoft Jenghei UI", Sans-serif;
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 28px;
+    max-width: 80ch;
+    text-indent: 4rem;
+    margin-inline: auto;
+}
+.elementor-12 .elementor-element.elementor-element-72cc235 .elementor-heading-title,
+.elementor-12 .elementor-element.elementor-element-729cda9 .elementor-heading-title {
+    color: #90ADBF;
+    font-family: "Microsoft Jenghei UI", Sans-serif;
+    font-size: 60px;
+    font-weight: 300;
+    line-height: 60px;
+    text-align: center;
+}
+
+/* What We Do Section */
+.elementor-element-5df7d7d {
+    position: sticky !important;
+    top: 99px !important;
+    z-index: 1;
+    background: #061120;
+}
+    /* What We Do title */
+.elementor-12 .elementor-element.elementor-element-7e848dc > .elementor-element-populated {
+    margin: 0px 0px 0px 40px;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 40px;
+    padding: 20px 0px 0px 0px;
+}
+    /* Technical Capabilities title*/
+.elementor-12 .elementor-element.elementor-element-5419542 .elementor-heading-title {
+    font-size: 30px;
+    line-height: 1em;
+    margin-bottom: 1em;
+}
+
+/* Our Team */
+.elementor-image-box-img img {
+    height: 225px;
+    width: unset !important;
+    aspect-ratio: 1/1;
+}
